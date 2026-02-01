@@ -39,7 +39,7 @@ Utöver de varningar som vissa av undertecknarna lyfter, har också andra forska
 
 I maj 2023 offentligjordes [följande skrivelse och namninsamling](https://www.safe.ai/statement-on-ai-risk) och från och med då har ledare för de stora AI-företagen och hundratals AI-forskare signerat listan: <!--The leaders of the 3 top AI labs and hundreds of AI scientists have [signed the following statement](https://www.safe.ai/statement-on-ai-risk) in May 2023:-->
 
-"Att begränsa risken för utrotning orsakad av artificiell intelligens bör vara en global prioritering, jämförbar med andra risker på samhällsnivå, såsom pandemier och kärnvapenkrig." <!--"Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war."-->
+"Att begränsa risken för extinction orsakad av artificiell intelligens bör vara en global prioritering, jämförbar med andra risker på samhällsnivå, såsom pandemier och kärnvapenkrig." <!--"Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war."-->
 
 **Du kan läsa en betydligt längre lista med liknande uppmaningar från politiker, VD:ar och experter [här](/citat) och andra liknande enkäter som besvarats av experter (och allmänheten) [här](/enkäter-och-utvärderingar).**
 <!--**You can read a much longer list of similar statements from politicians, CEOs and experts [here](/quotes) and other similar polls on the experts (and the public) [here](/polls-and-surveys).**-->
@@ -60,10 +60,10 @@ However, we tend to give AI systems access to the internet, which means that the
 - Direkt styra enheter som är uppkopplade mot internet, som bilar, flygplan, robotiserade (autonoma) vapen, eller till och med kärnvapen.
 <!--- Directly control devices connected to the internet, like cars, planes, robotized (autonomous) weapons or even nuclear weapons.-->
 
-- Utveckla ett nytt biologiskt vapen, till exempel genom att kombinera gentiska sekvenser från olika virus, eller genom att använda [proteinveckning](https://alphafold.ebi.ac.uk), och sedan beställa själva framtagandet via ett laboratorium.
+- Utveckla nya biologiska vapen, till exempel genom att kombinera gentiska sekvenser från olika virus, eller genom att använda [proteinveckning](https://alphafold.ebi.ac.uk), och sedan beställa själva framtagandet via ett laboratorium.
 <!--- Design a novel bioweapon, e.g. by combining viral strands or by using [protein folding](https://alphafold.ebi.ac.uk) and order it to be printed in a lab.-->
 
-- Utlösa ett kärnvapenkrig genom att övertyga människor om att ett annat land är på väg att avfyra ett kärnvapenangrepp.
+- Utlösa ett kärnvapenkrig genom att övertyga människor om att ett annat land är på väg att utföra ett kärnvapenangrepp.
 <!--- Trigger a nuclear war by convincing humans that another country is (about to) launch a nuclear attack.-->
 
 ## Anpassningsproblemet (_the alignment problem_): varför en kraftfull AI kan leda till mänsklighetens undergång
