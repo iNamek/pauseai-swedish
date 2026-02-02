@@ -1,5 +1,5 @@
 ---
-title: Den existentiella risken med superintelligent AI.
+title: Den existentiella risken med superintelligent AI
 description: Varför AI är en risk för vår framtida existens, och varför vi behöver pausa utvecklingen.
 ---
 <!-- title: The extinction risk of superintelligent AI description: Why AI is a risk for the future of our existence, and why we need to pause development.-->
