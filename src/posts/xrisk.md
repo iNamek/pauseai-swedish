@@ -209,7 +209,7 @@ Våra hjärnor tenderar att reagera otillräckligt på risker vi inte ser, som u
 <!--## AI companies are locked in a race to the bottom-->
 OpenAI, DeepMind och Anthropic vill utveckla AI på ett säkert sätt. Tyvärr vet de inte hur detta ska göras, och de drivs av olika incitament att fortsätta utveckla systemens  förmågor i snabb takt för att bli först med AGI.
 
-OpenAI:s plan￼ är att använda framtida AI-system för att anpassa AI. Problemet är att vi inte har någon garanti för att vi skapar en AI som löser anpassningsproblemet innan vi skapar en AI som är katastrofalt farlig.
+OpenAI:s plan är att använda framtida AI-system för att anpassa AI. Problemet är att vi inte har någon garanti för att vi skapar en AI som löser anpassningsproblemet innan vi skapar en AI som är katastrofalt farlig.
 
 Anthropic [medger öppet](https://www.anthropic.com/index/core-views-on-ai-safety) att de ännu inte vet hur anpassningsproblemet ska lösas, och DeepMind har inte offentligt presenterat någon plan för att lösa det.
 
