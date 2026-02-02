@@ -47,7 +47,7 @@ I maj 2023 offentligjordes [följande skrivelse och namninsamling](https://www.s
 ## Vad en superintelligent AI kan göra (och användas till)
 <!--## What a superintelligent AI can (be used to) do-->
 
-Du kanske tänker att en superintelligent AI kan hållas instängd på en server och på sätt hidras att påverka yttervärlden. Men, givet att företagen så här långt har gett AI-systemen tillgång till internet, är det tänkbart att de av olika skäl skulle göra det också i detta fall, vilket skulle kunna få vittgående konsekvenser, t.ex. skulle den då kunna:
+Du kanske tänker att en superintelligent AI kan hållas instängd på en server och på sätt hindras att påverka yttervärlden. Men, givet att företagen så här långt har gett AI-systemen tillgång till internet, är det tänkbart att de av olika skäl skulle göra det också i detta fall, vilket skulle kunna få vittgående konsekvenser, t.ex. skulle den då kunna:
 <!--You might think that a superintelligent AI would be locked inside a computer, and therefore can't affect the real world.
 However, we tend to give AI systems access to the internet, which means that they can do a lot of things:-->
 
