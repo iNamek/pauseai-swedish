@@ -41,7 +41,7 @@ I maj 2023 offentligjordes [följande skrivelse och namninsamling](https://www.s
 
 "Att begränsa risken för extinction orsakad av artificiell intelligens bör vara en global prioritering, jämförbar med andra risker på samhällsnivå, såsom pandemier och kärnvapenkrig." <!--"Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war."-->
 
-**Du kan läsa en betydligt längre lista med liknande uppmaningar från politiker, VD:ar och experter [här](/citat) och andra liknande enkäter som besvarats av experter (och allmänheten) [här](/enkäter-och-utvärderingar).**
+**Du kan läsa en betydligt längre lista med liknande uppmaningar från politiker, VD:ar och experter [här](/quotes) och andra liknande enkäter som besvarats av experter (och allmänheten) [här](/polls-and-surveys).**
 <!--**You can read a much longer list of similar statements from politicians, CEOs and experts [here](/quotes) and other similar polls on the experts (and the public) [here](/polls-and-surveys).**-->
 
 ## Vad en superintelligent AI kan göra (och användas till)
